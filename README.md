@@ -1,4 +1,10 @@
 # **DevOps / SRE Portfolio**
+<p>
+  <img src="https://img.shields.io/badge/Linux-DevOps-blue?logo=linux" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-blue?logo=docker" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?logo=terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions" />
+</p>
 
 A curated collection of infrastructure projects demonstrating practical experience in Linux systems, containerization, reverse proxy configuration, basic orchestration, and foundational DevOps concepts including CI/CD and Infrastructure-as-Code.
 
