@@ -147,6 +147,7 @@ output "public_ip" {
   value = aws_instance.lab_vm.public_ip
 }
 ```
+>Terraform examples focus on IaC concepts and workflow structure rather than production cloud environments
 
 ---
 
